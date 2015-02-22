@@ -20,7 +20,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
 # this function process the user matrix inversion, 
 # if the matrix object, have a cached invert result, 
 # the function return this cached result, 
